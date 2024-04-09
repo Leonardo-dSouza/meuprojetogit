@@ -1,1 +1,2 @@
-Meu projeto git, aprendendo bash
+ # Projeto Git e Github
+ 
